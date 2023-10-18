@@ -17,8 +17,8 @@ Here are the main operations associated with a stack:
 
 Stacks are commonly used for various tasks, including managing function calls in programming (the call stack), undo/redo functionality in software, and parsing expressions, among others. Stacks can be implemented using arrays or linked lists, and they are useful for situations where you need to keep track of items in a last-in, first-out order.
 </ul>
-# REAL WORLD IMPLEMENTATION
 
+# REAL WORLD IMPLEMENTATION
 In real-world application projects, implementing a stack is not a common practice in the same way it's used in data structures and algorithms. However, there are specific scenarios within various software applications where you might use a stack or a stack-like structure to manage certain aspects. Here are some scenarios when you might consider implementing a stack or stack-like behavior in your application:
 <ul>
 <li><code>Undo/Redo Functionality:</code> This is one of the most common scenarios. If your application involves complex user interactions (e.g., graphic design software, text editors, CAD applications, etc.), implementing a stack to manage undo and redo actions can be incredibly valuable. Users can undo their previous actions and redo them, providing a better user experience.
