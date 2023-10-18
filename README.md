@@ -14,9 +14,9 @@ Here are the main operations associated with a stack:
 <li>
 <code>isEmpty:</code> This operation checks whether the stack is empty or not. If the stack is empty, it means there are no elements in it.
 </li>
-<ul>
-Stacks are commonly used for various tasks, including managing function calls in programming (the call stack), undo/redo functionality in software, and parsing expressions, among others. Stacks can be implemented using arrays or linked lists, and they are useful for situations where you need to keep track of items in a last-in, first-out order.
 
+Stacks are commonly used for various tasks, including managing function calls in programming (the call stack), undo/redo functionality in software, and parsing expressions, among others. Stacks can be implemented using arrays or linked lists, and they are useful for situations where you need to keep track of items in a last-in, first-out order.
+</ul>
 # REAL WORLD IMPLEMENTATION
 
 In real-world application projects, implementing a stack is not a common practice in the same way it's used in data structures and algorithms. However, there are specific scenarios within various software applications where you might use a stack or a stack-like structure to manage certain aspects. Here are some scenarios when you might consider implementing a stack or stack-like behavior in your application:
